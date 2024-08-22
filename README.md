@@ -14,6 +14,6 @@ BibTree — це веб-додаток для візуалізації родо�
 ## 📞 Зв'язок
 Якщо у вас є питання або пропозиції, звертайтеся за адресою:
 
-  Email: maksimgulaj@gmail.com 
+  Email: [maksimgulaj@gmail.com](https://maksimgulaj@gmail.com)
   
   Telegram: [@Maksym_Hulai](https://t.me/Maksym_Hulai)
